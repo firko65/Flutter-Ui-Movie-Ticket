@@ -118,6 +118,27 @@ final movies = [
     seats: seats,
   ),
   Movie(
+    name: 'Aladdin 3 ',
+    image: 'assets/images/aladdin_2.jpg',
+    screenPreview: 'assets/images/aladdin_2.jpg',
+    description:
+        'A kind-hearted street urchin and a power-hungry Grand Vizier vie for '
+        'a magic lamp that has the power to make their deepest wishses come true.',
+    type: 'Fantasy',
+    hours: 2,
+    director: 'Ritchie',
+    stars: 5,
+    actors: [
+      'Will Smith',
+      'Joey Ansah',
+      'Naomi Scott',
+      'Marwan Kenzari',
+      'Nasim Pedrad',
+    ],
+    dates: dates,
+    seats: seats,
+  ),
+  Movie(
     name: 'Aladdin 2 ',
     image: 'assets/images/aladdin_2.jpg',
     screenPreview: 'assets/images/aladdin_2.jpg',
